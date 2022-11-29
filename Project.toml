@@ -1,0 +1,7 @@
+name = "ConstraintMod"
+uuid = "bb6a3ba0-287e-4733-89b2-091674ee79a0"
+authors = ["Roy Tseng <tseng17@gapp.nthu.edu.tw>"]
+version = "0.1.0"
+
+[deps]
+CoordinatorMod = "e7777045-d1ed-414e-ba71-c9e8b56f5304"

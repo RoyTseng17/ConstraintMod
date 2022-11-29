@@ -1,0 +1,11 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.7.0"
+manifest_format = "2.0"
+
+[[deps.CoordinatorMod]]
+git-tree-sha1 = "b4ade12a92dd985a031dff8cb2bf1f87db82afd6"
+repo-rev = "master"
+repo-url = "https://linxpa-pegit00.garmin.com/selfdevelopment/coordinatormod.git"
+uuid = "e7777045-d1ed-414e-ba71-c9e8b56f5304"
+version = "0.1.0"
